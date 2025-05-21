@@ -1,14 +1,13 @@
 ﻿/*
 
-	Kwazy Xhader OwO 5
+	KOwOzy Xhader 6 || KOwOX 6
 
 	by:
 		XR_XharpRazor
 
 	department:
-		M2007UA2009
-		M2007UA20093D2010U2019
-		M2007UA20093D2010V2021
+		Memo2007Ultra - Art2009 - 3D2010 - VirtualReality2021
+		Memo2007Ultra - Learn2016 - Academic2017 - Science2017 - ComputerScience2023
 
 
 
@@ -17,6 +16,10 @@
 		Unity
 			(Built in Unity Shader Variables) : https://docs.unity3d.com/Manual/SL-UnityShaderVariables.html
 			(Built in Unity Shader Functions) : https://docs.unity3d.com/Manual/SL-BuiltinFunctions.html
+
+		GitHub
+			(Version Control)
+			(Distribution)
 
 		Microsoft Visual Studio Code
 			(Text Editor)
@@ -54,7 +57,7 @@
 		Poiyomi                              
 			(Shader Format : Space)
 			(Enum)
-			(Stochastic Sampling as Inspitation)
+			(Stochastic Sampling as Inspiration)
 
 		Daniel llett
 			(Glitter Feature Idea)            : https://www.youtube.com/watch?v=jAOqmx764dA
@@ -904,6 +907,6 @@ SubShader
 	}
 }
 
-Fallback "Standard"
+//Fallback "Standard" //Quest does not cast shadows, using this line will cause the wholething to look charcoal black
 
 }
